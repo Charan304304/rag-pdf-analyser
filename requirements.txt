@@ -1,7 +1,10 @@
 streamlit
 langchain
-langchain-google-genai
-google-generativeai
+langchain-community
+langchain-text-splitters
+sentence-transformers
+transformers
+torch
 PyPDF2
 faiss-cpu
 pandas
